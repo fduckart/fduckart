@@ -1,4 +1,6 @@
-### Hi there 👋
+### Frank Duckart
+Programmer
+University of Hawaii, Information Technology Services
 
 <!--
 **fduckart/fduckart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
